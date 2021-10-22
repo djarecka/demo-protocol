@@ -8,7 +8,7 @@
     "version": "0.0.1",
     "question": "ORDER: This is an example of a select item with several possible answers to choose from a dropdown menu (several answers allowed).",
     "ui": {
-        "inputType": "select"
+        "inputType": "radio"
     },
     "responseOptions": {
         "valueType": "xsd:integer",
