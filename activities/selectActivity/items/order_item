@@ -16,15 +16,15 @@
         "maxValue": 2,
         "choices": [
             {
-                "name": "Response option 1",
+                "name": "1",
                 "value": 0
             },
             {
-                "name": "Response option 2",
+                "name": "2",
                 "value": 1
             },
             {
-                "name": "Response option 3",
+                "name": "3",
                 "value": 2
             }
         ]
