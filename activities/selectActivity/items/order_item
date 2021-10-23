@@ -14,6 +14,19 @@
         "valueType": "xsd:integer",
         "minValue": 0,
         "maxValue": 2,
-         "choices": [0,1,2]
+        "choices": [
+            {
+                "name": "Response option 1",
+                "value": 0
+            },
+            {
+                "name": "Response option 2",
+                "value": 1
+            },
+            {
+                "name": "Response option 3",
+                "value": 2
+            }
+        ]
     }
 }
