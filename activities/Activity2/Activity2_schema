@@ -40,7 +40,7 @@
                 },
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
-                "isVis": "console.log('FROM PROT')",
+                "isVis": "this.$store.getters.getAuthToken",
                 "allow": [
                     "reproschema:Skipped"
                   ]
