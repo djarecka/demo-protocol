@@ -40,7 +40,7 @@
                 },
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
-                "isVis": "1 > 2",
+                "isVis": "console.log('FROM PROT')",
                 "allow": [
                     "reproschema:Skipped"
                   ]
