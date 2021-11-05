@@ -45,6 +45,13 @@
                     "reproschema:Skipped"
                 ]
                 },
+                {"isAbout": "items/state_param_vis_item",
+                "variableName": "state_param_vis_item",
+                "isVis": 3,
+                  "allow": [
+                    "reproschema:Skipped"
+                ]
+                },
                 {"isAbout": "items/time_range_item",
                 "variableName": "time_range_item",
                 "isVis": true,
@@ -57,6 +64,7 @@
             "items/country_item",
             "items/language_item",
             "items/state_item",
+            "items/state_param_vis_item",
             "items/year_item",
             "items/date_item",
             "items/time_range_item"
