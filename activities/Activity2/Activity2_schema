@@ -40,7 +40,7 @@
                 },
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
-                "isVis": true,
+                "isVis": true
                },
                 {"isAbout": "items/time_range_item",
                 "variableName": "time_range_item",
