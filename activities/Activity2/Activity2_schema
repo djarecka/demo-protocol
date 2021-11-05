@@ -41,10 +41,7 @@
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
                 "isVis": "console.log('ALA')",
-                  "allow": [
-                    "reproschema:Skipped"
-                ]
-                },
+               },
                 {"isAbout": "items/time_range_item",
                 "variableName": "time_range_item",
                 "isVis": true,
