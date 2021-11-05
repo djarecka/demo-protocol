@@ -12,7 +12,7 @@
 
                 {"isAbout": "items/language_item",
                 "variableName": "language_item",
-                "isVis": true,
+                "isVis": false,
                   "allow": [
                     "reproschema:Skipped"
                 ]
@@ -33,15 +33,18 @@
                 },
                 {"isAbout": "items/country_item",
                 "variableName": "country_item",
-                "isVis": false,
+                "isVis": true,
                   "allow": [
                     "reproschema:Skipped"
                 ]
                 },
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
-                "isVis": true
-               },
+                "isVis": "1 > 2",
+                "allow": [
+                    "reproschema:Skipped"
+                  ]
+                },
                 {"isAbout": "items/time_range_item",
                 "variableName": "time_range_item",
                 "isVis": true,
