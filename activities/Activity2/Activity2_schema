@@ -33,7 +33,7 @@
                 },
                 {"isAbout": "items/country_item",
                 "variableName": "country_item",
-                "isVis": true,
+                "isVis": false,
                   "allow": [
                     "reproschema:Skipped"
                 ]
