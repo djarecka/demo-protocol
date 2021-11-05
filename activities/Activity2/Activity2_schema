@@ -40,7 +40,7 @@
                 },
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
-                "isVis": "this.$store.getters.getAuthToken",
+                "isVis": console.log("ALA", "this.$store.getters.getAuthToken"),
                   "allow": [
                     "reproschema:Skipped"
                 ]
