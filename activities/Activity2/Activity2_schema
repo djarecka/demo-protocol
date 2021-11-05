@@ -12,7 +12,7 @@
 
                 {"isAbout": "items/language_item",
                 "variableName": "language_item",
-                "isVis": true,
+                "isVis": "week === 2",
                   "allow": [
                     "reproschema:Skipped"
                 ]
