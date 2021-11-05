@@ -40,7 +40,7 @@
                 },
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
-                "isVis": "('myParam', 2)",
+                "isVis": "2",
                 "allow": [
                     "reproschema:Skipped"
                   ]
