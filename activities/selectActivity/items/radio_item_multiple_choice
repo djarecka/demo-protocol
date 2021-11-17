@@ -6,8 +6,7 @@
     "description": "This is a radio item with multiple choice.",
     "schemaVersion": "1.0.0-rc2",
     "version": "0.0.1",
-    "question": "<b> This is an example of a radio item with several possible answers to choose from </b> (several answers allowed) ..... 
-    <p style='text-align:center;'>Learn for free jjnkwelkjkwejkwjdlkwjlwjlwejlkkjelejlwejwlkejlkjql elekeklejlke alaeljekj</p>",
+    "question": "<b> This is an example of a radio item with several possible answers to choose from </b> (several answers allowed) ..... <p>Learn for free jjnkwelkjkwejkwjdlkwjlwjlwejlkkjelejlwejwlkejlkjql elekeklejlke alaeljekj</p>",
     "ui": {
         "inputType": "radio"
     },
