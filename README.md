@@ -1,4 +1,4 @@
-# This repository contains a demonstration protocol for ReproSchema
+# This repository contains a demonstration protocol for ReproSchema test
 
 An example protocol which serves as default protocol in [reproschema-ui](https://github.com/ReproNim/reproschema-ui).
 
