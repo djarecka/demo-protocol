@@ -12,7 +12,7 @@
 
                 {"isAbout": "items/language_item",
                 "variableName": "language_item",
-                "isVis": true,
+                "isVis": false,
                   "allow": [
                     "reproschema:Skipped"
                 ]
@@ -40,10 +40,10 @@
                 },
                 {"isAbout": "items/state_item",
                 "variableName": "state_item",
-                "isVis": true,
-                  "allow": [
+                "isVis": 22,
+                "allow": [
                     "reproschema:Skipped"
-                ]
+                  ]
                 },
                 {"isAbout": "items/time_range_item",
                 "variableName": "time_range_item",
